@@ -46,5 +46,3 @@ While building this project, I practiced and implemented:
 - 📱 Structured layout using Flexbox & Grid
 
 ---
-
-## 📂 Project Structure
